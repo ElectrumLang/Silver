@@ -90,23 +90,6 @@ $RECYCLE.BIN/
 sftp-config.json
 
 
-### ArchLinuxPackages ###
-*.tar
-*.tar.*
-*.zip
-*.tgz
-*.log
-*.log.*
-*.sig
-
-# AUR metadata
-.AURINFO
-.SRCINFO
-
-pkg/
-src/
-
-
 ### TextMate ###
 *.tmproj
 *.tmproject
